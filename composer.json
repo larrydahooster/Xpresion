@@ -1,0 +1,19 @@
+{
+  "name": "larrydahooster/Xpresion",
+  "type": "library",
+  "keywords": ["parser","NLP", "AST"],
+  "homepage": "https://github.com/larrydahooster/Xpresion",
+  "description": "packages php repack of https://github.com/foo123/Xpresion",
+  "license": "MIT",
+  "autoload": {
+    "psr-0": {
+      "Xpresion\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "3.7.*"
+  }
+}
