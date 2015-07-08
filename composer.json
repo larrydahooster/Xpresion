@@ -1,8 +1,8 @@
 {
-  "name": "larrydahooster/Xpresion",
+  "name": "larrydahooster/xpresion",
   "type": "library",
   "keywords": ["parser","NLP", "AST"],
-  "homepage": "https://github.com/larrydahooster/Xpresion",
+  "homepage": "https://github.com/larrydahooster/xpresion",
   "description": "php repack of https://github.com/foo123/Xpresion",
   "license": "MIT",
   "autoload": {
