@@ -3,7 +3,7 @@
   "type": "library",
   "keywords": ["parser","NLP", "AST"],
   "homepage": "https://github.com/larrydahooster/Xpresion",
-  "description": "packages php repack of https://github.com/foo123/Xpresion",
+  "description": "php repack of https://github.com/foo123/Xpresion",
   "license": "MIT",
   "autoload": {
     "psr-0": {
